@@ -57,6 +57,3 @@ mvn clean package
 你可以在浏览器输入 [http://localhost:8080/hello]( http://localhost:8080/hello), 查看结果
 
 ![2](/docs/2.jpg)
-
-## 场景
-
